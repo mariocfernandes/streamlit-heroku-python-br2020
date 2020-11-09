@@ -1,0 +1,20 @@
+import streamlit as st
+
+st.markdown("""
+ # Tutorial Streamlit / Heroku Python Brasil 2020 #
+            
+ Fala aí!!! Muito obrigado por acessar essa página!!
+            
+ Aqui você vai encontrar, de forma interativa, conteúdo sobre como criar uma
+ aplicação web usando a ferramenta **Streamlit**, a qual permite a criação de aplicações
+ de dados performáticas e bonitas, de forma simples, em **Python**, e de graça!
+              
+ Feito isso, você também vai conseguir aprender sobre como fazer o deploy da mesma,
+ ou seja, deixar ela disponível na internet, usando a ferramenta **Heroku**!
+            
+ Comece selecionando abaixo o item 1, para entender um pouco mais sobre as 
+ ferramentas usadas neste tutorial!
+            
+ A ideia é que você consiga fazer tudo por conta própria, mas se em qualquer momento,
+ tiver uma dúvida, pode me procurar! Pra isso, só selecionar a opção `5. Sobre mim e meu contato`        
+ """)
